@@ -22,7 +22,7 @@ Several NLP tasks break down human text and voice data in ways that help the com
 <li>Statistical NLP</li>
 <li>Machine learning</li>
 <li>Deep learning</li>
-
+<br />
 <b> Uses Case</b>
 <li>spam detection</li>
 <li>machine transalation</li>
